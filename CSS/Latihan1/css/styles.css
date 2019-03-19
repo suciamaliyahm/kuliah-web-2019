@@ -87,7 +87,7 @@ h2{
     margin-top: 80px;
     display: block;
     text-align: justify;
-    color: black;
+    color: rgb(71, 67, 67);
     font-size: 25px;
   }
   .chilli{
@@ -107,7 +107,7 @@ h2{
   #expertise2 p{
     display: block;
     text-align: justify;
-    color: black;
+    color: rgb(83, 80, 80);
     font-size: 25px;
   }
   

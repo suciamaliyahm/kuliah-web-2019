@@ -1,0 +1,172 @@
+body {
+    color: #4e6b8a;
+    width: 1000px;
+    margin: auto;
+}
+
+#header{
+    background: rgb(217, 241, 240);
+    text-align: center;
+    font-size: 20px;
+    padding-top: 40px;
+    margin: auto;
+}
+.cloud2{
+    width: 13%;
+    padding-left: 20%;
+   
+}
+h1{
+    font-family: Freestyle Script;
+    font-size: 70px;
+    color: rgb(104, 206, 207)
+}
+h2{
+    color: rgb(104, 206, 207);
+    font-family: Adobe Fangsong Std R
+}
+
+.cloud1{
+  width: 13%;
+   padding-top: 30px;
+   padding-left: 64%
+}
+
+.mountain{
+    width: 50%;
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    
+}
+#introduce h2{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+#introduce img {
+    width: 15%;
+    padding: 50px;
+    display: black;
+    margin: auto;
+    margin-top: 10px;
+    padding-left: 420px;
+}
+#introduce p{
+    text-align: center;
+}
+
+.web{
+    float: left;
+    width: 300px; 
+  }
+  #expertise1{
+    margin-bottom: 12%;
+    margin-top: 30%;
+  }
+  #expertise1 h2{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    color: rgb(104, 206, 207);
+  }
+  #expertise1 h3{
+    margin-left: 35%;
+    margin-top: 20%;
+    display: block;
+    text-align: justify;
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+  #expertise1 p{
+    margin-left: 35%;
+    margin-top: 80px;
+    display: block;
+    text-align: justify;
+    color: black;
+    font-size: 25px;
+  }
+  .chilli{
+    float: right;
+    margin-top: 50px;
+    padding-left: 40px;
+    height: 50%; width: 30%;
+  }
+  #expertise2 h3{
+    width: 300px;
+    padding-top: 10%;
+    display: block;
+    text-align: justify;
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+  #expertise2 p{
+    display: block;
+    text-align: justify;
+    color: black;
+    font-size: 25px;
+  }
+  
+  #contac{
+    margin-top: 20%;
+    margin-bottom: 30px;
+  }
+  #contac h2{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10%;
+    color: rgb(104, 206, 207);
+  }
+  #contac h3{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(80, 170, 170);
+    margin-bottom: 10%;
+  }
+  #contac p{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 15%;
+    color: rgb(104, 206, 207);
+  }
+  
+  #info{
+    width: auto;
+    padding: 20px;
+    border:5px solid rgb(136, 216, 216); 
+    margin-top: 80px;
+    background: rgb(136, 216, 216);
+  }
+  #contac a{
+    margin-left:40%;
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    background: rgb(81, 192, 204);
+    border: 9px solid rgb(81, 192, 204);
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: Arial
+  }
+  
+  
+  .footer-link{
+    margin: 50px 70px 0px 150px;
+    color: #4e6b8a;
+  }
+  
+  #info p{
+    
+    color: white;
+    display: block;
+    text-align: center;
+    padding-top: 40px;
+  }
